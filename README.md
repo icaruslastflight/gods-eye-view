@@ -1,8 +1,10 @@
+> **Repository attribution:** this is a fork of [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view). The project, screenshots, demo videos, recognition and testimonials below belong to the upstream project. They are not claims of original authorship by the fork owner. Any portfolio case study should identify the specific fork contributions separately.
+
 <div align="center">
 
 # 🌐 God's Eye View
 
-[![CI](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml)
+[![Upstream CI](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bilawalsidhu/gods-eye-view/actions/workflows/ci.yml)
 
 ### A spy-satellite simulator in your browser — then you realize the sources are public and the data is real.
 
@@ -113,7 +115,7 @@ Use **Node.js 24.x (24.14.0 or later) or 26.x**. The setup doctor warns about
 Node 25, which is end-of-life.
 
 ```bash
-git clone https://github.com/bilawalsidhu/gods-eye-view.git
+git clone https://github.com/icaruslastflight/gods-eye-view.git
 cd gods-eye-view
 npm ci
 npm run doctor
